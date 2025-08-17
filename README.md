@@ -7,10 +7,12 @@ Incluye pruebas automáticas con `pytest` para garantizar que las funciones prin
 
 ## 📂 Estructura del proyecto
 
-📂 calculadora
-├── main.py # Código principal de la calculadora
-├── test_main.py # Conjunto de pruebas automáticas (pytest)
-└── README.md # Este archivo
+📂 CALCULADORA AVANZADA
+  📂 myBetterCalculator-Individual
+  ├── 
+  ├── main.py # Código principal de la calculadora
+  ├── test_main.py # Conjunto de pruebas automáticas (pytest)
+  └── README.md # Este archivo
 
 
 ---
